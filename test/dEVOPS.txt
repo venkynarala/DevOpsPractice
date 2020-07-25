@@ -1,0 +1,9 @@
+#Git commands
+
+Git clone  <Url>
+Git status
+git branch 
+git checkout 
+
+git pull
+git push 
