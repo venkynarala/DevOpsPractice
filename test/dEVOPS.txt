@@ -7,3 +7,15 @@ git checkout
 
 git pull
 git push 
+
+
+first create a loxcal branch thenn set upstream branch 
+
+then make changes requied
+
+then commit locally
+
+then push changes to emote branch
+then create a pull request 
+
+merger it to master branbch
